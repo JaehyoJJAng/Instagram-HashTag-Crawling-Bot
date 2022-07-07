@@ -2,7 +2,7 @@
 Instagram HashTag Page Crawling Bot (Thumbnail , hashtag , content , comment , like count , etc)
 
 
-< 인스타그램 해쉬태그 페이지 크롤링 프로그램 >
+<h2>< 인스타그램 해쉬태그 페이지 크롤링 프로그램 ></h2>
 
 <h3>해쉬태그 입력</h3>
 - 해쉬태그 목록 로딩 및 출력
